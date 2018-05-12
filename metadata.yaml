@@ -1,0 +1,29 @@
+_repo: Square-PegsA-Rhymed-Fantasy-For-Two-Girls_43299
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43299-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bax, Clifford
+    birthdate: 1886
+    deathdate: 1962
+    gutenberg_agent_id: '42120'
+    url: http://www.gutenberg.org/2009/agents/42120
+description: ''
+gutenberg_issued: '2013-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43299'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy drama'
+- !lcsh 'One-act plays'
+- !lcc 'PR'
+- !lcsh 'Young women -- Drama'
+- !lcsh 'English drama'
+title: 'Square Pegs: A Rhymed Fantasy For Two Girls'
+url: http://www.gutenberg.org/ebooks/43299
